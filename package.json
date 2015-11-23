@@ -1,0 +1,14 @@
+{
+	"name": "bowling-game-kata",
+	"version": "0.0.0",
+	"description": "http://www.butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha --reporter spec ./tests"
+	},
+	"author": "Adam",
+	"license": "BSD-2-Clause",
+	"dependencies": {
+		"mocha": "~1.18.2"
+	}
+}
