@@ -20,12 +20,7 @@ Calculation logic references
 		[PIS Amount Withheld] = [Invoice Amount] * [PIS Withhold Tax Rate] 
 		[COFINS Amount Withheld] = [Invoice Amount] * [COFINS Withhold Tax Rate] 
 		[CSLL Amount Withheld] = [Invoice Amount] * [CSLL Withhold Tax Rate] 
-#Task requirements 
-* All stories to be completed with an appropriate level of testing. 
-* No actual database implementation is required, feel free to stub it out. 
-* Your code should trend towards being DDD, SOLID. 
-* You should commit all your code to a GIT repository. 
-* Send us a link to your GIT repository to gabriel@conube.com.br 
+
 #Story 01 
 	AS a company that provides services. 
 	I want to know the total amount of the following withhold taxes: IR, PIS, COFINS, CSLL. 
