@@ -32,6 +32,6 @@ Calculation logic references
 #Story 03 
 	AS a company that provide services. 
 	I want to see the amounts withheld rounded correctly to 2 decimal places. 
-T	hat way I will not be confused about how much will be discounted from my payment. 
+        That way I will not be confused about how much will be discounted from my payment. 
 
 
